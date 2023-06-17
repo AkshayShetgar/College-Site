@@ -1,7 +1,4 @@
 # collegeweb
-A Education website of Hindu Institute of Management, sonipat 
+A Education website on Angadi College
 
-# website link 
-output : 
-https://ajeetkumar06.github.io/collegeweb/
 
